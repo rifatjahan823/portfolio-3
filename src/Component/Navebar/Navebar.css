@@ -1,0 +1,19 @@
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+    transition: all .3s ease;
+    font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f75023;;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #f75023;;
+}
+.dizme-img{
+  width:180px;
+
+  
+}
+.bg{
+    background-color: white;
+}
