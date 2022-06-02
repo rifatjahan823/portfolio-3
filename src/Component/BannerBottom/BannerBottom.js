@@ -8,7 +8,8 @@ import './BannerBottom.css'
 
 const BannerBottom = () => {
     return (
-        <div className='container py-5 my-5'>
+        <div className='container'>
+          <div className=''style={{padding:"145px 0"}}> 
             <div className='row g-4 justify-content-center'>
                 <div className='col-lg-4 col-md-6 col-12 text-center'>
                     <div className='part'>
@@ -41,6 +42,7 @@ const BannerBottom = () => {
                      </div>
                 </div>
             </div>
+        </div>
         </div>
     );
 };
