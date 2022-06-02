@@ -12,7 +12,7 @@ const Banner = () => {
             <div className='container' >
                 <div className='row g-4 align-items-center'>
                     <div className='col-md-7 col-12 pe-5'>
-                        <div className='content-part mt-3'>
+                        <div className='content-part mt-5'>
                          <h3>Hello, I'm</h3>
                          <h2>Rifat Jahan</h2>
                          <p className='my-3'>A <span style={{color:'#1cbe59'}}>Creative Designer </span>From <span style={{color:"#8067f0"}}>Bangladesh</span></p>
@@ -24,7 +24,7 @@ const Banner = () => {
                     </div>
                     <div className='col-md-5 mt-5 col-12'>
                         <div className='img-part'>
-                            <img style={{width:'330px',}} className='img-fluid mt-5  ' src={avatar} alt="" />
+                            <img style={{width:'320px',}} className='img-fluid mt-5  ' src={avatar} alt="" />
                             <img className='img-fluid animated-img ' src={ps} alt="" />
                             <img className='img-fluid animated-img2 ' src={fg}alt="" />
                             <img className='img-fluid animated-img3 ' src={ad} alt="" />

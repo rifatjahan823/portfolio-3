@@ -1,0 +1,29 @@
+.part-img{
+    position: relative;
+    margin-bottom: 30px;
+}
+.part-img img{
+    width: 90px;
+}
+.part-icon{
+    position: absolute;
+    bottom:30%;
+    left:46%;
+    font-size:35px;
+}
+.part h3{
+    font-weight: 500;
+    line-height: 1.3;
+    font-family: Jost,sans-serif;
+    color: #000;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.part p{
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0;
+    word-wrap: break-word;
+    font-weight: 400;
+    color: #6f6b80;
+}
