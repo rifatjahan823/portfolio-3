@@ -32,8 +32,8 @@ const Navebar = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
              <Nav className="ms-auto">
              <Nav.Link as={Link} to="/">Home</Nav.Link>
-               <Nav.Link as={Link} to="/about">About</Nav.Link>
-               <Nav.Link as={Link} to="/portfolio">My Portfolio</Nav.Link>  
+               <Nav.Link  href='#about'>About</Nav.Link>
+               <Nav.Link href='#portfolio'>My Portfolio</Nav.Link>  
              </Nav>
             </Navbar.Collapse>
           </Container>
@@ -49,8 +49,8 @@ const Navebar = () => {
             <Navbar.Collapse id="responsive-navbar-nav">
              <Nav className="ms-auto">
              <Nav.Link as={Link} to="/">Home</Nav.Link>
-               <Nav.Link as={Link} to="/about">About</Nav.Link>
-               <Nav.Link as={Link} to="/portfolio">My Portfolio</Nav.Link>  
+               <Nav.Link href='#about'>About</Nav.Link>
+               <Nav.Link href='#portfolio'>My Portfolio</Nav.Link>  
              </Nav>
             </Navbar.Collapse>
           </Container>

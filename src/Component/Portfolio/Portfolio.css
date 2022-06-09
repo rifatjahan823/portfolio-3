@@ -1,0 +1,29 @@
+.portfolio{
+    position: relative;
+}
+.portfolio-1{
+    position: absolute;
+    top: 0;
+    left: 0%;
+}
+.portfolio-top h6{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f75023;
+    font-family: Jost,sans-serif;
+    display: inline-block;
+    margin-bottom: 6px;
+}
+.portfolio-top h3{
+    font-size: 38px;
+    margin-bottom: 16px;
+}
+.portfolio-top p{
+    font-family: Open Sans,sans-serif;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 0;
+    word-wrap: break-word;
+    font-weight: 400;
+    color: #6f6b80;
+}

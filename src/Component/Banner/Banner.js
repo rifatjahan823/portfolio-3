@@ -15,10 +15,10 @@ const Banner = () => {
                         <div className='content-part mt-5'>
                          <h3>Hello, I'm</h3>
                          <h2>Rifat Jahan</h2>
-                         <p className='my-3'>A <span style={{color:'#1cbe59'}}>Creative Designer </span>From <span style={{color:"#8067f0"}}>Bangladesh</span></p>
-                         <p className='p-description mb-4'>I'm creative designer based in Bangladesh, and I'm very passionate and <br></br> dedicated to my work. </p>
+                         <p className='my-3'>A <span style={{color:'#1cbe59'}}>Creative Developer </span>From <span style={{color:"#8067f0"}}>Bangladesh</span></p>
+                         <p className='p-description mb-4'>I'm creative Front-end developerbased in Bangladesh, and I'm very passionate and <br></br> dedicated to my work. </p>
                          <div className='dizme_tm_button '>
-                            <a href="#about"><span>About Me</span></a>
+                         <a href="https://drive.google.com/file/d/191wbLHyQtyUOfTUNtiquMVFaKWRnYV_C/view?usp=sharing" target="_blank" rel="noopener noreferrer"><span>Resume</span></a>
                          </div>
                         </div>
                     </div>
